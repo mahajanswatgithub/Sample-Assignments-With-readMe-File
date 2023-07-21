@@ -3,7 +3,7 @@
 * java 
 
 ### Data Flow
-* Controller - Rest Controller
+* Controller - RestController
  
   Used with @GetMapping, @PutMapping, @RequestBody, @RequestParam, @PathVariable, @DeleteMapping and @AutoWired and linked with the business logic in the Service Class
 
