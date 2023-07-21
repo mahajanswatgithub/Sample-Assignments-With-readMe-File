@@ -20,8 +20,9 @@
 
 ### Project Summary
 
-* A simple TO DO Application
-* A Todo status can be updated through its todoId
+* This is "Todo-App" Application which follows MVC-architecture.I have created this project by using spring initilizer by taking spring-starter- web dependency.In my model package I have Todo class which has all todo list     related data.
+* We can add all the todo data which we want complete.
+* We can also update and delete it, if it is done.
 * We can Able to fetch all the list of todos which are done or not done
-* We can delete a perticular todo using todoId
+
 
